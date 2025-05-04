@@ -1,2 +1,2 @@
-# projects
-This is where all main projects go.
+# Grant's Portfolio
+This is the primary location where main projects are stored.
